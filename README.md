@@ -10,10 +10,10 @@ An AI-powered jewelry recommendation system that transforms overwhelming jewelry
 **Team Name**: CodeCatalysts  
 **Team Members**:
 
-- **Ruthwik** - Frontend Developer
-- **Vara Prasad** - Backend Developer
-- **Vishwak** - Data Collector
-- **Satya Vishwas** - UI/UX Designer
+- **Ruthwik**: Frontend development, kiosk interface optimization
+- **Vara Prasad**: Backend ML development, Google Cloud deployment
+- **Vishwak**: Celebrity data collection, ML model training
+- **Satya Vishwas**: UI/UX design, 
 
 **Contest**: Fueled Contest 3.0 – Week 1  
 **Problem**: Jewelry shopping overwhelm - customers can't find styles that suit them or match celebrity inspirations  
@@ -437,29 +437,6 @@ The ML API is deployed on Google Cloud Run:
 - **vs. Style Apps**: Real product integration with purchase capability
 - **vs. Recommendation Engines**: Celebrity aspiration + personality psychology
 
-## 🗓️ Contest Roadmap
-
-### ✅ Week 1 (Complete): Core Prototype
-
-- Interactive survey system with personality-based questions
-- Celebrity style matching algorithm with live ML API
-- Product recommendation engine with real-time data
-- Responsive kiosk-optimized interface
-- Production ML deployment on Google Cloud
-
-### 🔄 Week 2: Enhanced AI & Design
-
-- **Figma Design System**: Complete kiosk UI/UX design
-- **Celebrity Database Expansion**: 1000+ celebrity style profiles
-- **Advanced Matching**: Enhanced 8-dimensional style DNA
-- **Social Features**: Shareable style twin results with analytics
-
-### 🎯 Week 3: Full Integration & Polish
-
-- **Complete AI Pipeline**: Enhanced real celebrity data integration
-- **Advanced Analytics**: Store insights and trend tracking
-- **Kiosk Hardware**: Physical kiosk prototype testing
-- **Final Demo**: Production-ready deployment
 
 ## 🔍 Debugging & Troubleshooting
 
@@ -479,17 +456,6 @@ The app provides comprehensive logging:
 - Error handling and fallbacks
 - Performance metrics
 
-## 📞 Team Contact & Support
-
-**CodeCatalysts Team**:
-
-- **Ruthwik**: Frontend development, kiosk interface optimization
-- **Vara Prasad**: Backend ML development, Google Cloud deployment
-- **Vishwak**: Celebrity data collection, ML model training
-- **Satya Vishwas**: UI/UX design, integration testing
-
-**Contest**: Fueled Contest 3.0 – Week 1  
-**Submission**: StyleSync Mirror - Celebrity Style DNA Decoder with Live ML Integration
 
 ## 🏆 Demo & Testing
 
