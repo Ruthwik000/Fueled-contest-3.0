@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>EVOL Jewels - Product Recommendation</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px;">
+    
+    <div style="text-align: center; margin-bottom: 30px;">
+        <h1 style="color: #1f2937; font-size: 28px; margin: 0;">EVOL JEWELS</h1>
+        <p style="color: #6b7280; font-size: 12px; letter-spacing: 2px; margin: 5px 0 0 0;">J E W E L S</p>
+    </div>
+    
+    <h2 style="color: #374151;">Hello!</h2>
+    
+    <p>Someone thought you'd love this beautiful jewelry piece from EVOL Jewels:</p>
+    
+    <div style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 20px 0;">
+        <h3 style="color: #111827; margin: 0 0 10px 0;">{{product_name}}</h3>
+        <p style="font-size: 20px; font-weight: bold; color: #111827; margin: 0 0 15px 0;">{{product_price}}</p>
+        
+        <p><strong>Purity:</strong> {{purity}}</p>
+        <p><strong>Color:</strong> {{color}}</p>
+        
+        <div style="margin: 20px 0;">
+            <img src="{{product_image}}" alt="{{product_name}}" style="max-width: 100%; height: auto; border-radius: 8px;">
+        </div>
+        
+        <p style="font-style: italic; color: #4b5563;">"{{message}}"</p>
+        
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="{{product_url}}" style="background-color: #000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; display: inline-block;">View Product</a>
+        </div>
+    </div>
+    
+    <p style="text-align: center; color: #6b7280; font-size: 12px;">
+        © 2024 {{from_name}}. Crafting elegance, one piece at a time.
+    </p>
+    
+</body>
+</html>
