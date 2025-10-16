@@ -1,0 +1,17 @@
+{
+  "num_celebrities": 10,
+  "embedding_dimension": 384,
+  "model_name": 384,
+  "celebrity_ids": [
+    "celeb_001",
+    "celeb_002",
+    "celeb_003",
+    "celeb_004",
+    "celeb_005",
+    "celeb_006",
+    "celeb_007",
+    "celeb_008",
+    "celeb_009",
+    "celeb_010"
+  ]
+}

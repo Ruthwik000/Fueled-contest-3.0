@@ -1,0 +1,162 @@
+[
+  {
+    "id": "celeb_001",
+    "name": "Alia Bhatt",
+    "description": "Alia blends youthful elegance and polish — she often lets one standout piece (a diamond necklace or statement earrings) take the spotlight, while keeping the rest of her accessories minimal and refined.",
+    "image_url": "https://www.naturaldiamonds.com/in/hollywood-pop-culture/alia-bhatt-best-diamond-jewellery-looks/", 
+    "primary_vibe_tags": [
+      "Modern",
+      "Elegant",
+      "Minimal"
+    ],
+    "secondary_vibe_tags": [
+      "Diamond-focused",
+      "Contemporary"
+    ],
+    "vibe_description": "Refined minimalism with high-impact brilliance. Favors certified natural diamonds and clean silhouettes that highlight solitaire cuts and precise craftsmanship. Leans toward versatile day-to-evening styling where the diamond is the hero and settings are sleek, light, and timeless—ideal for modern celebrations and milestone moments."
+  },
+  {
+    "id": "celeb_002",
+    "name": "Deepika Padukone",
+    "description": "Deepika has a luxury-meets-tradition sensibility — she balances bold high jewellery moments (on red carpets) with understated gold and diamond pieces in her everyday and film appearances.",
+    "image_url": null,
+    "primary_vibe_tags": [
+      "Elegant",
+      "Timeless",
+      "Statement"
+    ],
+    "secondary_vibe_tags": [
+      "Heritage",
+      "Red carpet luxe"
+    ],
+    "vibe_description": "Always poised, she gravitates toward pieces that carry heritage gravitas yet read clean and modern. Her red carpet jewellery includes deconstructed heirloom motifs and bold statements, while her regular looks stay centered on refined gold and diamond accents."
+  },
+  {
+    "id": "celeb_003",
+    "name": "Kareena Kapoor Khan",
+    "description": "Kareena’s jewelry aesthetic often leans toward classic glamour — she smoothly transitions between bold statement pieces for events and tasteful minimalism in her casual styling.",
+    "image_url": null,
+    "primary_vibe_tags": [
+      "Classic",
+      "Glamorous",
+      "Versatile"
+    ],
+    "secondary_vibe_tags": [
+      "Statement earrings",
+      "Timeless gold"
+    ],
+    "vibe_description": "Kareena fuses timeless glamour with wearable ease — she chooses striking earrings, layered chains, and elevated gold that complements her bold persona without overpowering. Her everyday pieces trend toward refined staples with subtle detailing."
+  },
+  {
+    "id": "celeb_004",
+    "name": "Kiara Advani",
+    "description": "Kiara exhibits a modern-luxe edge — she experiments with metal mixing, bold stone contrasts, and contemporary silhouette jewellery, while maintaining an elegant core.",
+    "image_url": null,
+    "primary_vibe_tags": [
+      "Contemporary",
+      "Bold",
+      "Chic"
+    ],
+    "secondary_vibe_tags": [
+      "Mixed metals",
+      "Gemstone accents"
+    ],
+    "vibe_description": "She’s not afraid of shine — Kiara often pairs bold statement rings or earrings with cleaner neckpieces. Her red carpet jewelry is fashion-forward yet wearable, often highlighting gemstones or asymmetric designs, while her day looks keep to fine gold or diamond pieces."
+  },
+  {
+    "id": "celeb_005",
+    "name": "Pooja Hegde",
+    "description": "Pooja’s style tilts minimal but with an understated flair — she knows when to go bold (for events) but often leans on sleek metal forms, fine chains, and subtle sparkle in daily wear.",
+    "image_url": null,
+    "primary_vibe_tags": [
+      "Minimal",
+      "Elegant",
+      "Subtle glam"
+    ],
+    "secondary_vibe_tags": [
+      "Gold essentials",
+      "Refined accents"
+    ],
+    "vibe_description": "Her jewelry leans toward graceful restraint. Even when she steps into glitzy looks, she often picks one focal piece (like a ring or earring) and keeps everything else minimal. Gold and diamond motifs with soft lines dominate her aesthetic."
+  },
+  {
+    "id": "celeb_006",
+    "name": "Sara Ali Khan",
+    "description": "Sara’s jewelry approach is youthful and experimental — she oscillates between statement boho pieces and minimalist designs, depending on mood and styling.",
+    "image_url": null,
+    "primary_vibe_tags": [
+      "Eclectic",
+      "Playful",
+      "Modern"
+    ],
+    "secondary_vibe_tags": [
+      "Statement layers",
+      "Boho minimal"
+    ],
+    "vibe_description": "She has a dual personality with jewelry — bold layered necklaces, ear cuffs, mixed textures, but she also embraces pared-down gold or diamond elements. Her style often experiments with scale, layering and contrasts."
+  },
+  {
+    "id": "celeb_007",
+    "name": "Sonam Kapoor",
+    "description": "Sonam is known as a fashion-forward jewelry tastemaker — she embraces bold couture jewelry, high-design statements, and often pushes stylistic boundaries.",
+    "image_url": null,
+    "primary_vibe_tags": [
+      "Fashion-forward",
+      "Avant-garde",
+      "Statement"
+    ],
+    "secondary_vibe_tags": [
+      "Couture jewelry",
+      "Design edge"
+    ],
+    "vibe_description": "Her jewelry isn’t just accessory — it’s fashion. Expect sculptural forms, bold metalwork, daring combos. Even when she opts for simpler pieces, they have a distinct designer flair or silhouette twist."
+  },
+  {
+    "id": "celeb_008",
+    "name": "Ananya Panday",
+    "description": "Ananya leans youthful-chic with an eye for trending minimal luxe — she mixes everyday minimal jewellery with bursts of bold when styling for campaigns or red carpet.",
+    "image_url": null,
+    "primary_vibe_tags": [
+      "Trendy",
+      "Chic",
+      "Minimal"
+    ],
+    "secondary_vibe_tags": [
+      "Statement pop",
+      "Layered dainty"
+    ],
+    "vibe_description": "She plays between minimal staples and showstopper details — minimal necklaces, fine earrings in day looks; bold rings or statement jewelry for fashion shoots or gala looks. The goal: balanced maximalism."
+  },
+  {
+    "id": "celeb_009",
+    "name": "Shraddha Kapoor",
+    "description": "Shraddha often opts for soft elegance — she picks delicate gold and diamond pieces and uses jewelry to elevate her look without overwhelming it.",
+    "image_url": null,
+    "primary_vibe_tags": [
+      "Delicate",
+      "Elegant",
+      "Understated"
+    ],
+    "secondary_vibe_tags": [
+      "Fine gold work",
+      "Soft sparkle"
+    ],
+    "vibe_description": "She leans toward pieces that accentuate rather than compete — fine chains, small studs, slim bangles. In events, she may choose a statement piece, but always balanced by subtlety elsewhere."
+  },
+  {
+    "id": "celeb_010",
+    "name": "Aishwarya Rai Bachchan",
+    "description": "Aishwarya’s jewelry sense blends regal heritage with modern presentation — she uses statement traditional pieces in high profile settings, but also embraces sleek gold/diamond minimalism in many appearances.",
+    "image_url": null,
+    "primary_vibe_tags": [
+      "Regal",
+      "Timeless",
+      "Elegant"
+    ],
+    "secondary_vibe_tags": [
+      "Heritage motifs",
+      "High-impact"
+    ],
+    "vibe_description": "Her jewelry narrative is one of legacy and balance — she embraces bold temple, polki, and heritage forms on big occasions, but often pairs them with understated gold or diamonds in fashion campaigns or public appearances. The result is classic + modern in harmony."
+  }
+]
